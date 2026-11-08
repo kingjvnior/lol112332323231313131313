@@ -1,0 +1,2 @@
+# hwid_hash            reason
+8B8E5B4E4F01CA28       
