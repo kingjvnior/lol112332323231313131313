@@ -1,2 +1,3 @@
 # hwid_hash            username    role
 8B8E5B4E4F01CA28       developer    user
+EDD6FA668571853D       sxlty        user
